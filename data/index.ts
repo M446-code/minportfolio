@@ -13,7 +13,7 @@ export const gridItems = [
     className: "lg:col-span-3 md:col-span-3 md:row-span-2 lg:row-span-2  lg:h-[60vh] ",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
-    img: "/b1.svg",
+    img: "/https://github.com/M446-code/minportfolio/blob/main/public/b1.svg",
     spareImg: "",
   },
   {
